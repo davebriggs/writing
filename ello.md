@@ -1,3 +1,5 @@
+#Ello isn't the solution to a problem anyone has
+
 The people who aren't happy with the Facebook model are generally - if we're honest - dorks. And they are probably dorks who are quite capable of throwing up their own instance of something or other that could do what Ello does in a distributed, non creepy way (whether they can be bothered is a different matter).
 
 The people that actually need a hosted social networking solution, which Ello offers, generally couldn't give a stuff about advertisers and so on, as long as they can continue watching their friends throw cold water over each other.
